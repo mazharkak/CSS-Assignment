@@ -46,11 +46,12 @@ section
 	}	
 h3
 	{
-		padding: 5px;
+		padding: 10px;
 	}	
 p
 	{
 		font-size: 13px;
+		padding: 15px 10px;
 	}	
 span
 	{
@@ -60,7 +61,7 @@ span
 #p_3
 	{
 		float: right;
-		margin-right: 6px;
+		
 	}	
 	
 #a_1
@@ -89,3 +90,8 @@ footer
 	{
 		font-size: 13px;
 	}	
+#pic_1
+	{
+		margin-top: 29px;
+
+	}
